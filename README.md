@@ -15,7 +15,7 @@ A Simple Node JS App
 
 
 ### Starting the Server
-    $ node app.js
+    $ npm start
 
 
 ### Running the project
